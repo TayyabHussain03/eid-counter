@@ -50,8 +50,12 @@ h1{
     #time,#text{
     margin-left: 2px;
     margin-right: 2px;
-    padding: 10px;
+    padding: 2px;
     font-size: medium;
+    }
+
+    #time{
+        word-spacing: 20px;
     }
 }
 
